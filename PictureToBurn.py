@@ -1,1 +1,1 @@
-print "Cold_as_you"
+print ("PictureToBurn")
